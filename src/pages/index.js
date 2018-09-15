@@ -47,7 +47,7 @@ const IndexPage = ({
       <Hero>
         <h1>Predisposição Poética.</h1>
         <p>
-          Frederico, 22. Apaixonado por poesia, filmes, música e café.
+          Frederico, 22. Apaixonado por poesia, cinema, música, viagens e café.
         </p>
         <Link to="/contact">
           <Button big>

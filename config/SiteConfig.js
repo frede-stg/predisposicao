@@ -14,7 +14,7 @@ module.exports = {
   ogSiteName: '', // Facebook Site Name - Optional
   // Manifest and Progress color
   // See: https://developers.google.com/web/fundamentals/web-app-manifest/
-  themeColor: '#3498DB',
+  themeColor: '#74b9ff',
   backgroundColor: '#2b2e3c',
 
   // Settings for typography.js
