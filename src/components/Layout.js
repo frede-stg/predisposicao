@@ -88,6 +88,10 @@ const Layout = ({ children }) => (
             Website template by <a
             href="https://github.com/LeKoArts/gatsby-starter-minimal-blog"
             targer="_blank">LeKoArts</a>
+            <br />
+            <br />
+            Icon made by Freepik from <a
+            href="www.flaticon.com"
           </Footer>;
         </React.Fragment>
       </ThemeProvider>
