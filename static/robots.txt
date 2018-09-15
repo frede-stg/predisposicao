@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-sitemap: www.predisposicaopoetica.com
+sitemap: https://www.predisposicaopoetica.com
