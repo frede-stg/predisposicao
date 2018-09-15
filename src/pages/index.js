@@ -47,6 +47,7 @@ const IndexPage = ({
       <Hero>
         <h1>Predisposição Poética.</h1>
         <p>
+          Espaço simples e feito com carinho para publicação do que vou escrevendo a quem interessar possa.\n
           Frederico, 22. Apaixonado por poesia, cinema, música, viagens e café.
         </p>
         <Link to="/contact">
