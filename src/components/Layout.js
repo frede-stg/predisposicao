@@ -91,7 +91,7 @@ const Layout = ({ children }) => (
             <br />
             <br />
             Icon made by Freepik from <a
-            href="www.flaticon.com"
+            href="www.flaticon.com"/a>
           </Footer>;
         </React.Fragment>
       </ThemeProvider>
