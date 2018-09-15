@@ -92,7 +92,7 @@ const Layout = ({ children }) => (
             <br />
             Icon made by Freepik from <a
             href="www.flaticon.com"
-            targer="_blank">flaticon</a>
+            targer="_blank">FlatIcon</a>
           </Footer>;
         </React.Fragment>
       </ThemeProvider>
