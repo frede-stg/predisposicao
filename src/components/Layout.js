@@ -87,7 +87,7 @@ const Layout = ({ children }) => (
             <a href="https://github.com/LeKoArts/gatsby-starter-minimal-blog">GitHub Repository</a> <br />
             <span>Last build: {data.site.buildTime}</span>
 =======
-            &copy; 2018 por Frederico Santiago. Todos os direitos reservados. <br />
+            &copy; 2018 por Frederico Santiago. Todos os direitos reservados. Á<br />
             <br />
             <br />
             Website template by <a
